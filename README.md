@@ -87,7 +87,7 @@
       }
 
       localStorage.setItem("username", username);
-      window.location.href = "nr.html";
+      window.location.href = "iqbl.html";
       return false;
     }
   </script>
